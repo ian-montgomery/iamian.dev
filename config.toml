@@ -2,6 +2,7 @@ baseURL = "https://iamian.dev/"
 languageCode = "en-us"
 title = "iamian@dev"
 theme = "hugo-theme-console"
+copyright = "Copyright {year} Ian Montgomery"
 
 
 
